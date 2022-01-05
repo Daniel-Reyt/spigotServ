@@ -1,0 +1,384 @@
+[23:18:38] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:18:38] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[23:18:39] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[23:18:39] [Worker-Main-18/INFO]: Loaded 7 recipes
+[23:18:42] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[23:18:42] [Server thread/INFO]: Loading properties
+[23:18:43] [Server thread/INFO]: This server is running CraftBukkit version 3395-Spigot-f4ff00f-cc86ab1 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[23:18:43] [Server thread/INFO]: Debug logging is disabled
+[23:18:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:18:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:18:43] [Server thread/INFO]: Default game type: SURVIVAL
+[23:18:43] [Server thread/INFO]: Generating keypair
+[23:18:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:18:43] [Server thread/INFO]: Using default channel type
+[23:18:44] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[23:18:47] [Server thread/WARN]: Legacy plugin MobStacker v2.0.0 does not specify an api-version.
+[23:18:47] [Server thread/WARN]: Legacy plugin Spawner v2.8.3-1603e95 does not specify an api-version.
+[23:18:47] [Server thread/INFO]: [HomeSpawn] Loading HomeSpawn v3.1.15
+[23:18:47] [Server thread/INFO]: [MobStacker] Loading MobStacker v2.0.0
+[23:18:47] [Server thread/INFO]: [Spawner] Loading Spawner v2.8.3-1603e95
+[23:18:47] [Server thread/INFO]: Preparing level "SMPworld"
+[23:18:48] [Server thread/INFO]: -------- World Settings For [SMPworld] --------
+[23:18:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:18:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:18:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:18:48] [Server thread/INFO]: View Distance: 12
+[23:18:48] [Server thread/INFO]: Simulation Distance: 10
+[23:18:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:18:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:18:48] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:18:48] [Server thread/INFO]: Mob Spawn Range: 6
+[23:18:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:18:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:18:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:18:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[23:18:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:18:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:18:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:18:48] [Server thread/INFO]: Max TNT Explosions: 100
+[23:18:53] [Server thread/INFO]: -------- World Settings For [SMPworld_nether] --------
+[23:18:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:18:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:18:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:18:53] [Server thread/INFO]: View Distance: 12
+[23:18:53] [Server thread/INFO]: Simulation Distance: 10
+[23:18:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:18:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:18:53] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:18:53] [Server thread/INFO]: Mob Spawn Range: 6
+[23:18:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:18:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:18:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[23:18:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:18:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:18:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:18:53] [Server thread/INFO]: Max TNT Explosions: 100
+[23:18:53] [Server thread/INFO]: -------- World Settings For [SMPworld_the_end] --------
+[23:18:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:18:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:18:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:18:53] [Server thread/INFO]: View Distance: 12
+[23:18:53] [Server thread/INFO]: Simulation Distance: 10
+[23:18:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:18:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:18:53] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:18:53] [Server thread/INFO]: Mob Spawn Range: 6
+[23:18:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:18:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:18:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:18:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[23:18:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:18:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:18:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:18:53] [Server thread/INFO]: Max TNT Explosions: 100
+[23:18:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:18:54] [Worker-Main-22/INFO]: Preparing spawn area: 0%
+[23:18:54] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[23:18:55] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[23:18:55] [Worker-Main-21/INFO]: Preparing spawn area: 2%
+[23:18:56] [Worker-Main-22/INFO]: Preparing spawn area: 5%
+[23:18:56] [Worker-Main-16/INFO]: Preparing spawn area: 9%
+[23:18:57] [Worker-Main-19/INFO]: Preparing spawn area: 12%
+[23:18:57] [Worker-Main-30/INFO]: Preparing spawn area: 17%
+[23:18:58] [Worker-Main-23/INFO]: Preparing spawn area: 23%
+[23:18:58] [Worker-Main-17/INFO]: Preparing spawn area: 27%
+[23:18:59] [Worker-Main-23/INFO]: Preparing spawn area: 32%
+[23:18:59] [Worker-Main-23/INFO]: Preparing spawn area: 37%
+[23:19:00] [Worker-Main-22/INFO]: Preparing spawn area: 43%
+[23:19:00] [Worker-Main-28/INFO]: Preparing spawn area: 49%
+[23:19:01] [Worker-Main-28/INFO]: Preparing spawn area: 54%
+[23:19:01] [Worker-Main-18/INFO]: Preparing spawn area: 59%
+[23:19:02] [Worker-Main-20/INFO]: Preparing spawn area: 64%
+[23:19:02] [Worker-Main-28/INFO]: Preparing spawn area: 70%
+[23:19:03] [Worker-Main-23/INFO]: Preparing spawn area: 75%
+[23:19:03] [Worker-Main-27/INFO]: Preparing spawn area: 81%
+[23:19:04] [Worker-Main-16/INFO]: Preparing spawn area: 86%
+[23:19:04] [Worker-Main-23/INFO]: Preparing spawn area: 89%
+[23:19:05] [Worker-Main-24/INFO]: Preparing spawn area: 95%
+[23:19:05] [Server thread/INFO]: Time elapsed: 11450 ms
+[23:19:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:19:05] [Worker-Main-29/INFO]: Preparing spawn area: 0%
+[23:19:06] [Worker-Main-25/INFO]: Preparing spawn area: 1%
+[23:19:06] [Worker-Main-20/INFO]: Preparing spawn area: 2%
+[23:19:07] [Worker-Main-24/INFO]: Preparing spawn area: 8%
+[23:19:07] [Worker-Main-16/INFO]: Preparing spawn area: 11%
+[23:19:08] [Worker-Main-25/INFO]: Preparing spawn area: 15%
+[23:19:08] [Worker-Main-26/INFO]: Preparing spawn area: 20%
+[23:19:09] [Worker-Main-27/INFO]: Preparing spawn area: 24%
+[23:19:09] [Worker-Main-30/INFO]: Preparing spawn area: 28%
+[23:19:10] [Worker-Main-25/INFO]: Preparing spawn area: 33%
+[23:19:10] [Worker-Main-22/INFO]: Preparing spawn area: 39%
+[23:19:11] [Worker-Main-30/INFO]: Preparing spawn area: 44%
+[23:19:11] [Worker-Main-21/INFO]: Preparing spawn area: 50%
+[23:19:12] [Worker-Main-18/INFO]: Preparing spawn area: 55%
+[23:19:12] [Worker-Main-28/INFO]: Preparing spawn area: 58%
+[23:19:13] [Worker-Main-28/INFO]: Preparing spawn area: 66%
+[23:19:13] [Worker-Main-28/INFO]: Preparing spawn area: 70%
+[23:19:14] [Worker-Main-26/INFO]: Preparing spawn area: 76%
+[23:19:14] [Worker-Main-25/INFO]: Preparing spawn area: 83%
+[23:19:15] [Worker-Main-17/INFO]: Preparing spawn area: 85%
+[23:19:15] [Worker-Main-17/INFO]: Preparing spawn area: 90%
+[23:19:16] [Worker-Main-19/INFO]: Preparing spawn area: 96%
+[23:19:16] [Server thread/INFO]: Time elapsed: 10630 ms
+[23:19:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:19:16] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[23:19:16] [Worker-Main-21/INFO]: Preparing spawn area: 2%
+[23:19:17] [Worker-Main-24/INFO]: Preparing spawn area: 24%
+[23:19:17] [Worker-Main-29/INFO]: Preparing spawn area: 61%
+[23:19:18] [Worker-Main-23/INFO]: Preparing spawn area: 92%
+[23:19:18] [Server thread/INFO]: Time elapsed: 2051 ms
+[23:19:18] [Server thread/INFO]: [HomeSpawn] Enabling HomeSpawn v3.1.15
+[23:19:18] [Server thread/INFO]: [HomeSpawn] The messages.yml file has been updated, it is now called messages_PRE_3.1.15.yml, please transfer any values into the new messages.yml
+[23:19:18] [Server thread/INFO]: [HomeSpawn] HomeSpawn v3.1.15 has been enabled
+[23:19:18] [Server thread/INFO]: [MobStacker] Enabling MobStacker v2.0.0
+[23:19:18] [Server thread/INFO]: [MobStacker] MobStacker is starting
+[23:19:18] [Server thread/INFO]: [MobStacker] ------------------------------------------------------------------
+[23:19:18] [Server thread/INFO]: [MobStacker] WARNING - MobStacker no longer receives updates or support
+[23:19:18] [Server thread/INFO]: [MobStacker] Please upgrade to MobStacker2 if you wish to use a better plugin
+[23:19:18] [Server thread/INFO]: [MobStacker] ------------------------------------------------------------------
+[23:19:18] [Server thread/INFO]: [MobStacker] Connected to metrics
+[23:19:18] [Server thread/INFO]: [MobStacker] Didn't hook in to WorldGuard
+[23:19:18] [Server thread/INFO]: [MobStacker] MobStacker has successfully started!
+[23:19:18] [Server thread/INFO]: [Spawner] Enabling Spawner v2.8.3-1603e95
+[23:19:18] [Server thread/ERROR]: [Spawner] This plugin is not compatible with the version of your server.
+[23:19:18] [Server thread/ERROR]: [Spawner] Please check for updates at http://dev.bukkit.org/bukkit-plugins/spawner/
+[23:19:18] [Server thread/ERROR]: [Spawner] If an update is not available please request one if you are running Spigot 1.10 or newer.
+[23:19:18] [Server thread/INFO]: [Spawner] Disabling Spawner v2.8.3-1603e95
+[23:19:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:19:18] [Server thread/INFO]: Done (30.467s)! For help, type "help"
+[23:19:18] [Craft Scheduler Thread - 0/INFO]: [HomeSpawn] HomeSpawn file watcher started!
+[23:20:36] [User Authenticator #1/INFO]: UUID of player Lightning46 is a93702e1-0e8c-4fa3-b294-88cd1368caef
+[23:20:36] [Server thread/INFO]: Lightning46[/127.0.0.1:63225] logged in with entity id 754 at ([SMPworld]193.5, 79.0, -4.5)
+[23:20:45] [Server thread/INFO]: Lightning46 issued server command: /plugins
+[23:20:57] [Server thread/INFO]: Lightning46 issued server command: /spawner help
+[23:20:57] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'spawner' in plugin Spawner v2.8.3-1603e95 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[spigot-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.CraftServer.dispatchCommand(CraftServer.java:821) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1939) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1778) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1759) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.network.protocol.game.PacketPlayInChat.a(PacketPlayInChat.java:46) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.network.protocol.game.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:30) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:151) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.c(SourceFile:23) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1158) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.c(MinecraftServer.java:1) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.util.thread.IAsyncTaskHandler.y(SourceFile:125) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1137) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1130) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:134) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1114) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1038) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[23:21:01] [Server thread/INFO]: Lightning46 issued server command: /spawner
+[23:21:01] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'spawner' in plugin Spawner v2.8.3-1603e95 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[spigot-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[spigot-api-1.18.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_18_R1.CraftServer.dispatchCommand(CraftServer.java:821) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1939) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1778) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.network.PlayerConnection.a(PlayerConnection.java:1759) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.network.protocol.game.PacketPlayInChat.a(PacketPlayInChat.java:46) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.network.protocol.game.PacketPlayInChat.a(PacketPlayInChat.java:1) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.network.protocol.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:30) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.TickTask.run(SourceFile:18) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:151) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.c(SourceFile:23) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1158) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.c(MinecraftServer.java:1) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.util.thread.IAsyncTaskHandler.y(SourceFile:125) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.bf(MinecraftServer.java:1137) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.y(MinecraftServer.java:1130) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.util.thread.IAsyncTaskHandler.c(SourceFile:134) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1114) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1038) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.18.1-R0.1-SNAPSHOT.jar:3395-Spigot-f4ff00f-cc86ab1]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[23:22:47] [Server thread/INFO]: Lightning46 issued server command: /gamemode c
+[23:23:02] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[23:23:15] [Server thread/INFO]: Made Lightning46 a server operator
+[23:23:21] [Server thread/INFO]: Lightning46 issued server command: /gamemode
+[23:23:24] [Server thread/INFO]: Lightning46 issued server command: /gamemode creative
+[23:23:24] [Server thread/INFO]: [Lightning46: Set own game mode to Creative Mode]
+[23:23:30] [Server thread/INFO]: Lightning46 issued server command: /give Lightning46 minecraft:spawner
+[23:23:30] [Server thread/INFO]: [Lightning46: Gave 1 [Spawner] to Lightning46]
+[23:23:45] [Server thread/INFO]: Lightning46 issued server command: /give Lightning46 minecraft:diamond_pickaxe
+[23:23:45] [Server thread/INFO]: [Lightning46: Gave 1 [Diamond Pickaxe] to Lightning46]
+[23:23:55] [Server thread/INFO]: Lightning46 issued server command: /enchant Lightning46 minecraft:silk_touch 1
+[23:23:55] [Server thread/INFO]: [Lightning46: Applied enchantment Silk Touch to Lightning46's item]
+[23:23:59] [Server thread/INFO]: Lightning46 issued server command: /gamemode survival
+[23:23:59] [Server thread/INFO]: [Lightning46: Set own game mode to Survival Mode]
+[23:24:10] [Server thread/INFO]: Named entity EntityPig['2X PIG'/1442, l='ServerLevel[SMPworld]', x=209.06, y=66.00, z=-10.77] died: 2X PIG was slain by Lightning46
+[23:26:56] [Server thread/INFO]: Lightning46 lost connection: Disconnected
+[23:26:56] [Server thread/INFO]: Lightning46 left the game
+[23:27:02] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[23:27:06] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[23:27:09] [Server thread/INFO]: --------- Help: Index ---------------------------
+[23:27:09] [Server thread/INFO]: Use /help [n] to get page n of help.
+[23:27:09] [Server thread/INFO]: Aliases: Lists command aliases
+[23:27:09] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[23:27:09] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[23:27:09] [Server thread/INFO]: MobStacker: All commands for MobStacker
+[23:27:09] [Server thread/INFO]: Spawner: All commands for Spawner
+[23:27:09] [Server thread/INFO]: /advancement: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /attribute: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /ban: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /banlist: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /clear: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /clone: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /data: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /datapack: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /debug: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /delhome: Delete a home
+[23:27:09] [Server thread/INFO]: /delspawn: Deletes a spawn point
+[23:27:09] [Server thread/INFO]: /deop: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /effect: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /enchant: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /execute: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /experience: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /fill: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /forceload: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /function: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /give: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /help: Shows the help menu
+[23:27:09] [Server thread/INFO]: /home: Teleport to one of your homes
+[23:27:09] [Server thread/INFO]: /homelist: Shows the players current homes
+[23:27:09] [Server thread/INFO]: /homespawn: Plugin information, help and player information
+[23:27:09] [Server thread/INFO]: /item: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /jfr: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /kick: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /kill: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /list: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /locate: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /locatebiome: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /loot: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /me: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /mobstacker: 
+[23:27:09] [Server thread/INFO]: /msg: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /op: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /pardon: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /particle: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /perf: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /playsound: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[23:27:09] [Server thread/INFO]: /recipe: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[23:27:09] [Server thread/INFO]: /renamehome: Rename a home
+[23:27:09] [Server thread/INFO]: /restart: Restarts the server
+[23:27:09] [Server thread/INFO]: /save-all: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /save-off: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /save-on: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /say: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /schedule: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /seed: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /setblock: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /sethome: Sets a home at your current location
+[23:27:09] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /setspawn: Set the location for /spawn
+[23:27:09] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /spawn: Teleport to the preset spawn location
+[23:27:09] [Server thread/INFO]: /spawner: Allows switching of spawner entity types with /spawner <entity>
+[23:27:09] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /spectate: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /spigot: Spigot related commands
+[23:27:09] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /stop: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /summon: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /tag: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /team: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /teleport: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /tell: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /time: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[23:27:09] [Server thread/INFO]: /title: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /tm: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /tp: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[23:27:09] [Server thread/INFO]: /trigger: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[23:27:09] [Server thread/INFO]: /w: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /weather: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[23:27:09] [Server thread/INFO]: /xp: A Mojang provided command.
+[23:27:20] [Server thread/INFO]: Stopping the server
+[23:27:20] [Server thread/INFO]: Stopping server
+[23:27:20] [Server thread/INFO]: [MobStacker] Disabling MobStacker v2.0.0
+[23:27:20] [Server thread/INFO]: [MobStacker] Thanks for using MobStacker!
+[23:27:20] [Server thread/INFO]: [HomeSpawn] Disabling HomeSpawn v3.1.15
+[23:27:20] [Server thread/INFO]: [HomeSpawn] HomeSpawn has been disabled
+[23:27:20] [Server thread/INFO]: Saving players
+[23:27:20] [Server thread/INFO]: Saving worlds
+[23:27:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[SMPworld]'/minecraft:overworld
+[23:27:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[SMPworld_nether]'/minecraft:the_nether
+[23:27:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[SMPworld_the_end]'/minecraft:the_end
+[23:27:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (SMPworld): All chunks are saved
+[23:27:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:27:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:27:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
